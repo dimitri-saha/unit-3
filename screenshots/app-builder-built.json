@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "APES Practice Quiz — MCQ + FRQ",
+      "hasCanvas": false,
+      "bodyTextLen": 35445,
+      "bodyTextHash": "d7f7176ed05328e62a1a8922bb9f3a17f1b4942cf16e6b04939b6aa45ce86652",
+      "bodyTextPrefix": "AP Environmental Science Practice MCQs FRQs Shuffle Choices 0 / ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "APES Practice Quiz — MCQ + FRQ",
+      "hasCanvas": false,
+      "bodyTextLen": 35445,
+      "bodyTextHash": "d7f7176ed05328e62a1a8922bb9f3a17f1b4942cf16e6b04939b6aa45ce86652",
+      "bodyTextPrefix": "AP Environmental Science Practice MCQs FRQs Shuffle Choices 0 / ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
